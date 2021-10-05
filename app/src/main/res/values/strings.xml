@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="string_phone_hint">string/phone_hint</string>
+</resources>
